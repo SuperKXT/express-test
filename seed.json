@@ -1,0 +1,66 @@
+[
+	{
+		"name": "player name 2",
+		"position": "midfielder",
+		"playerSkills": [
+			{
+				"skill": "speed",
+				"value": 90
+			}
+		]
+	},
+	{
+		"name": "player name 3",
+		"position": "defender",
+		"playerSkills": [
+			{
+				"skill": "strength",
+				"value": 50
+			},
+			{
+				"skill": "stamina",
+				"value": 2
+			}
+		]
+	},
+	{
+		"name": "player name 4",
+		"position": "defender",
+		"playerSkills": [
+			{
+				"skill": "strength",
+				"value": 37
+			}
+		]
+	},
+	{
+		"name": "player name 5",
+		"position": "midfielder",
+		"playerSkills": [
+			{
+				"skill": "speed",
+				"value": 100
+			}
+		]
+	},
+	{
+		"name": "player name 6",
+		"position": "defender",
+		"playerSkills": [
+			{
+				"skill": "speed",
+				"value": 100
+			}
+		]
+	},
+	{
+		"name": "player name 7",
+		"position": "defender",
+		"playerSkills": [
+			{
+				"skill": "strength",
+				"value": 20
+			}
+		]
+	}
+]
